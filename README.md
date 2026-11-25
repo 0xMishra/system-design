@@ -29,8 +29,8 @@ Every system directory contains exactly two things:
 
 | System | Blog | Diagram |
 |--------|------|---------|
-| Bitly (URL Shortener) | [architecture.md](./bitly/architecture.md) | [diagram](./bitly/architecture.png) |
-| Redis | [architecture.md](./redis/architecture.md) | [diagram](./redis/architecture.png) |
+| Bitly (URL Shortener) | [architecture.md](./bitly/architecture.md) | [diagram](./bitly/architecture.jpeg) |
+| Redis | [architecture.md](./redis/architecture.md) | [diagram](./redis/architecture.jpg) |
 
 > Keep this table updated whenever a new system is added.
 
@@ -63,11 +63,3 @@ Each `architecture.md` aims to answer:
 - Diagrams must be readable at full width: use clear labels and a consistent legend.
 - Cite sources for any numbers or claims taken from external material.
 - Write in your own words; link to original sources instead of copying them.
-
-## Contributing
-
-Suggestions, corrections, and new systems are welcome. Open an issue to propose a system, or submit a pull request following the structure above.
-
-## License
-
-MIT
